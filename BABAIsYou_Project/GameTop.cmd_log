@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "D:/ISE/BABAIsYou/GameTop.xst" -ofn "D:/ISE/BABAIsYou/GameTop.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc IMPLE.ucf -p xc7k160t-ffg676-1 GameTop.ngc GameTop.ngd  
+map -intstyle ise -p xc7k160t-ffg676-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o GameTop_map.ncd GameTop.ngd GameTop.pcf 
+par -w -intstyle ise -ol high -mt off GameTop_map.ncd GameTop.ncd GameTop.pcf 
+bitgen -intstyle ise -f GameTop.ut GameTop.ncd 
