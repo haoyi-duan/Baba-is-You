@@ -4,7 +4,11 @@ In the group project of **Digital Logic Design**,  programmed the replica game �
 
 ### [What is "`Baba Is You`"?](https://store.steampowered.com/app/736260/Baba_Is_You/)
 
-视频
+
+
+https://user-images.githubusercontent.com/58615742/205834529-8fdbe6d7-1f35-4f3c-934e-8c13cfcce5be.mp4
+
+
 
 Baba is You is an independent puzzle game with subversive creativity. The core method of the game is to move the hero Baba to change the combination of characters on the map, thereby changing the rules of the game, turning the impossible into the possible, and achieving the conditions for victory.
 
