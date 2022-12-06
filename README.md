@@ -228,4 +228,4 @@ Conduct simulation tests on each module to solve potential problems.
 
 ###### Haolong Chen
 
-### [Document in Chinese]()
+### [Document in Chinese](https://github.com/haoyi-duan/Baba-is-You/blob/main/BABA%20is%20you%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A.docx)
