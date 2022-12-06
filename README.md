@@ -1,6 +1,6 @@
 # "Baba Is You" Game
 
-In the group project of **Digital Logic Design**,  programmed the replica game “Baba Is You” on VGPA based on Verilog. 
+In the group project of **Digital Logic Design**,  programmed the replica game “Baba Is You” on FPGA based on Verilog. 
 
 ### [What is "`Baba Is You`"?](https://store.steampowered.com/app/736260/Baba_Is_You/)
 
@@ -12,9 +12,9 @@ https://user-images.githubusercontent.com/58615742/205834529-8fdbe6d7-1f35-4f3c-
 
 Baba is You is an independent puzzle game with subversive creativity. The core method of the game is to move the hero Baba to change the combination of characters on the map, thereby changing the rules of the game, turning the impossible into the possible, and achieving the conditions for victory.
 
-The version of the game on the Steam platform is very mature, with many levels and rich interfaces. In the course design, our team independently designed the "Baba is you" game based on VGPA (Field－Programmable Gate Array). It is displayed on the SWORD development board integrated by Zhejiang University. We designed 11 levels, and the maps were developed independently. The rules and playing methods of the game have not changed, so logical judgment is a major difficulty in the game design process. Finally, the work was completed using RAM, ROM, and VRAM to store and change maps.
+The version of the game on the Steam platform is very mature, with many levels and rich interfaces. In the course design, our team independently designed the "Baba is you" game based on FPGA (Field－Programmable Gate Array). It is displayed on the SWORD development board integrated by Zhejiang University. We designed 11 levels, and the maps were developed independently. The rules and playing methods of the game have not changed, so logical judgment is a major difficulty in the game design process. Finally, the work was completed using RAM, ROM, and VRAM to store and change maps.
 
-### [What is `VGPA`?](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+### [What is `FPGA`?](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
 
 ### Design & Development Environment
 
